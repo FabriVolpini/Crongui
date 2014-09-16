@@ -376,6 +376,19 @@
     <string>Limpiar todo</string>
    </property>
   </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>300</y>
+     <width>65</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>v1.0.0</string>
+   </property>
+  </widget>
  </widget>
  <tabstops>
   <tabstop>lineacron</tabstop>
